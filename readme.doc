@@ -1,0 +1,5 @@
+
+apt-get install python-dev
+#下载spidev-3.2(或更新版本),解压
+./setup.py install  #root
+#raspi-config开启spi
